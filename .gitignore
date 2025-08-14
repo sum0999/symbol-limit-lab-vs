@@ -1,0 +1,10 @@
+/.vs/
+/x64/
+/Win32/
+/Debug/
+/Release/
+/ipch/
+/bin/
+/intermediate/
+*.opendb
+*.VC.db
